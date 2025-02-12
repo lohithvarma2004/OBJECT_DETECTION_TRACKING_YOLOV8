@@ -1,0 +1,51 @@
+[0.460s] Invoking command in '/home/lohith/yolobot/build/yolobot_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lohith/ros2_ws/install/whisper_demos:/home/lohith/ros2_ws/install/move_robot_square:/home/lohith/ros2_ws/install/diff_drive_square:/home/lohith/ros2_ws/install/audio_listener:/home/lohith/install/turtlesim_goal:/home/lohith/install/turtlebot3_pid_control:/home/lohith/install/second_pkg:/home/lohith/install/robot_math:/home/lohith/install/my_py_pkg:/home/lohith/install/my_py1_pkg:/home/lohith/install/lidar_reader:/home/lohith/install/hello_pkg:/home/lohith/install/fouth_pkg:/home/lohith/install/first_pkg:/home/lohith/install/differential_drive_sim:/home/lohith/install/controller:/home/lohith/install/Third_pkg:/opt/ros/humble /usr/bin/cmake /home/lohith/yolobot/src/yolobot_control -DCMAKE_INSTALL_PREFIX=/home/lohith/yolobot/install/yolobot_control
+[2.044s] -- The C compiler identification is GNU 11.4.0
+[3.050s] -- The CXX compiler identification is GNU 11.4.0
+[3.117s] -- Detecting C compiler ABI info
+[3.766s] -- Detecting C compiler ABI info - done
+[3.831s] -- Check for working C compiler: /usr/bin/cc - skipped
+[3.853s] -- Detecting C compile features
+[3.867s] -- Detecting C compile features - done
+[3.929s] -- Detecting CXX compiler ABI info
+[4.542s] -- Detecting CXX compiler ABI info - done
+[4.571s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[4.598s] -- Detecting CXX compile features
+[4.599s] -- Detecting CXX compile features - done
+[4.765s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[5.893s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[7.028s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[8.267s] -- Added test 'copyright' to check source files copyright and LICENSE
+[8.305s] -- Added test 'flake8' to check Python code syntax and style conventions
+[8.305s] -- Added test 'lint_cmake' to check CMake code style
+[8.314s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[8.336s] -- Added test 'xmllint' to check XML markup files
+[8.344s] -- Configuring done
+[8.394s] -- Generating done
+[8.395s] -- Build files have been written to: /home/lohith/yolobot/build/yolobot_control
+[8.528s] Invoked command in '/home/lohith/yolobot/build/yolobot_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lohith/ros2_ws/install/whisper_demos:/home/lohith/ros2_ws/install/move_robot_square:/home/lohith/ros2_ws/install/diff_drive_square:/home/lohith/ros2_ws/install/audio_listener:/home/lohith/install/turtlesim_goal:/home/lohith/install/turtlebot3_pid_control:/home/lohith/install/second_pkg:/home/lohith/install/robot_math:/home/lohith/install/my_py_pkg:/home/lohith/install/my_py1_pkg:/home/lohith/install/lidar_reader:/home/lohith/install/hello_pkg:/home/lohith/install/fouth_pkg:/home/lohith/install/first_pkg:/home/lohith/install/differential_drive_sim:/home/lohith/install/controller:/home/lohith/install/Third_pkg:/opt/ros/humble /usr/bin/cmake /home/lohith/yolobot/src/yolobot_control -DCMAKE_INSTALL_PREFIX=/home/lohith/yolobot/install/yolobot_control
+[8.530s] Invoking command in '/home/lohith/yolobot/build/yolobot_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lohith/ros2_ws/install/whisper_demos:/home/lohith/ros2_ws/install/move_robot_square:/home/lohith/ros2_ws/install/diff_drive_square:/home/lohith/ros2_ws/install/audio_listener:/home/lohith/install/turtlesim_goal:/home/lohith/install/turtlebot3_pid_control:/home/lohith/install/second_pkg:/home/lohith/install/robot_math:/home/lohith/install/my_py_pkg:/home/lohith/install/my_py1_pkg:/home/lohith/install/lidar_reader:/home/lohith/install/hello_pkg:/home/lohith/install/fouth_pkg:/home/lohith/install/first_pkg:/home/lohith/install/differential_drive_sim:/home/lohith/install/controller:/home/lohith/install/Third_pkg:/opt/ros/humble /usr/bin/cmake --build /home/lohith/yolobot/build/yolobot_control -- -j5 -l5
+[8.930s] Invoked command in '/home/lohith/yolobot/build/yolobot_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lohith/ros2_ws/install/whisper_demos:/home/lohith/ros2_ws/install/move_robot_square:/home/lohith/ros2_ws/install/diff_drive_square:/home/lohith/ros2_ws/install/audio_listener:/home/lohith/install/turtlesim_goal:/home/lohith/install/turtlebot3_pid_control:/home/lohith/install/second_pkg:/home/lohith/install/robot_math:/home/lohith/install/my_py_pkg:/home/lohith/install/my_py1_pkg:/home/lohith/install/lidar_reader:/home/lohith/install/hello_pkg:/home/lohith/install/fouth_pkg:/home/lohith/install/first_pkg:/home/lohith/install/differential_drive_sim:/home/lohith/install/controller:/home/lohith/install/Third_pkg:/opt/ros/humble /usr/bin/cmake --build /home/lohith/yolobot/build/yolobot_control -- -j5 -l5
+[8.945s] Invoking command in '/home/lohith/yolobot/build/yolobot_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lohith/ros2_ws/install/whisper_demos:/home/lohith/ros2_ws/install/move_robot_square:/home/lohith/ros2_ws/install/diff_drive_square:/home/lohith/ros2_ws/install/audio_listener:/home/lohith/install/turtlesim_goal:/home/lohith/install/turtlebot3_pid_control:/home/lohith/install/second_pkg:/home/lohith/install/robot_math:/home/lohith/install/my_py_pkg:/home/lohith/install/my_py1_pkg:/home/lohith/install/lidar_reader:/home/lohith/install/hello_pkg:/home/lohith/install/fouth_pkg:/home/lohith/install/first_pkg:/home/lohith/install/differential_drive_sim:/home/lohith/install/controller:/home/lohith/install/Third_pkg:/opt/ros/humble /usr/bin/cmake --install /home/lohith/yolobot/build/yolobot_control
+[8.973s] -- Install configuration: ""
+[8.974s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/yolobot_control//scripts
+[8.974s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/yolobot_control//scripts/robot_control.py
+[8.974s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/yolobot_control//launch
+[8.974s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/yolobot_control//launch/yolobot_control.launch.py
+[8.976s] -- Installing: /home/lohith/yolobot/install/yolobot_control/lib/yolobot_control/robot_control.py
+[8.979s] -- Installing: /home/lohith/yolobot/install/yolobot_control/lib/yolobot_control/yolobot_control.launch.py
+[8.979s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/ament_index/resource_index/package_run_dependencies/yolobot_control
+[8.979s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/ament_index/resource_index/parent_prefix_path/yolobot_control
+[8.980s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/yolobot_control/environment/ament_prefix_path.sh
+[8.980s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/yolobot_control/environment/ament_prefix_path.dsv
+[8.980s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/yolobot_control/environment/path.sh
+[8.980s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/yolobot_control/environment/path.dsv
+[8.983s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/yolobot_control/local_setup.bash
+[8.991s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/yolobot_control/local_setup.sh
+[9.002s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/yolobot_control/local_setup.zsh
+[9.003s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/yolobot_control/local_setup.dsv
+[9.003s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/yolobot_control/package.dsv
+[9.006s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/ament_index/resource_index/packages/yolobot_control
+[9.009s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/yolobot_control/cmake/yolobot_controlConfig.cmake
+[9.012s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/yolobot_control/cmake/yolobot_controlConfig-version.cmake
+[9.012s] -- Installing: /home/lohith/yolobot/install/yolobot_control/share/yolobot_control/package.xml
+[9.293s] Invoked command in '/home/lohith/yolobot/build/yolobot_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lohith/ros2_ws/install/whisper_demos:/home/lohith/ros2_ws/install/move_robot_square:/home/lohith/ros2_ws/install/diff_drive_square:/home/lohith/ros2_ws/install/audio_listener:/home/lohith/install/turtlesim_goal:/home/lohith/install/turtlebot3_pid_control:/home/lohith/install/second_pkg:/home/lohith/install/robot_math:/home/lohith/install/my_py_pkg:/home/lohith/install/my_py1_pkg:/home/lohith/install/lidar_reader:/home/lohith/install/hello_pkg:/home/lohith/install/fouth_pkg:/home/lohith/install/first_pkg:/home/lohith/install/differential_drive_sim:/home/lohith/install/controller:/home/lohith/install/Third_pkg:/opt/ros/humble /usr/bin/cmake --install /home/lohith/yolobot/build/yolobot_control

@@ -1,0 +1,57 @@
+[0.339s] Invoking command in '/home/lohith/yolobot/build/yolobot_recognition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lohith/ros2_ws/install/whisper_demos:/home/lohith/ros2_ws/install/move_robot_square:/home/lohith/ros2_ws/install/diff_drive_square:/home/lohith/ros2_ws/install/audio_listener:/home/lohith/install/turtlesim_goal:/home/lohith/install/turtlebot3_pid_control:/home/lohith/install/second_pkg:/home/lohith/install/robot_math:/home/lohith/install/my_py_pkg:/home/lohith/install/my_py1_pkg:/home/lohith/install/lidar_reader:/home/lohith/install/hello_pkg:/home/lohith/install/fouth_pkg:/home/lohith/install/first_pkg:/home/lohith/install/differential_drive_sim:/home/lohith/install/controller:/home/lohith/install/Third_pkg:/opt/ros/humble /usr/bin/cmake /home/lohith/yolobot/src/yolobot_recognition -DCMAKE_INSTALL_PREFIX=/home/lohith/yolobot/install/yolobot_recognition
+[1.750s] -- The C compiler identification is GNU 11.4.0
+[2.742s] -- The CXX compiler identification is GNU 11.4.0
+[2.803s] -- Detecting C compiler ABI info
+[3.572s] -- Detecting C compiler ABI info - done
+[3.613s] -- Check for working C compiler: /usr/bin/cc - skipped
+[3.614s] -- Detecting C compile features
+[3.627s] -- Detecting C compile features - done
+[3.633s] -- Detecting CXX compiler ABI info
+[4.253s] -- Detecting CXX compiler ABI info - done
+[4.367s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[4.370s] -- Detecting CXX compile features
+[4.374s] -- Detecting CXX compile features - done
+[4.458s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[5.799s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[6.762s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[7.922s] -- Added test 'copyright' to check source files copyright and LICENSE
+[7.993s] -- Added test 'flake8' to check Python code syntax and style conventions
+[7.993s] -- Added test 'lint_cmake' to check CMake code style
+[8.001s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[8.015s] -- Added test 'xmllint' to check XML markup files
+[8.030s] -- Configuring done
+[8.080s] -- Generating done
+[8.083s] -- Build files have been written to: /home/lohith/yolobot/build/yolobot_recognition
+[8.218s] Invoked command in '/home/lohith/yolobot/build/yolobot_recognition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lohith/ros2_ws/install/whisper_demos:/home/lohith/ros2_ws/install/move_robot_square:/home/lohith/ros2_ws/install/diff_drive_square:/home/lohith/ros2_ws/install/audio_listener:/home/lohith/install/turtlesim_goal:/home/lohith/install/turtlebot3_pid_control:/home/lohith/install/second_pkg:/home/lohith/install/robot_math:/home/lohith/install/my_py_pkg:/home/lohith/install/my_py1_pkg:/home/lohith/install/lidar_reader:/home/lohith/install/hello_pkg:/home/lohith/install/fouth_pkg:/home/lohith/install/first_pkg:/home/lohith/install/differential_drive_sim:/home/lohith/install/controller:/home/lohith/install/Third_pkg:/opt/ros/humble /usr/bin/cmake /home/lohith/yolobot/src/yolobot_recognition -DCMAKE_INSTALL_PREFIX=/home/lohith/yolobot/install/yolobot_recognition
+[8.218s] Invoking command in '/home/lohith/yolobot/build/yolobot_recognition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lohith/ros2_ws/install/whisper_demos:/home/lohith/ros2_ws/install/move_robot_square:/home/lohith/ros2_ws/install/diff_drive_square:/home/lohith/ros2_ws/install/audio_listener:/home/lohith/install/turtlesim_goal:/home/lohith/install/turtlebot3_pid_control:/home/lohith/install/second_pkg:/home/lohith/install/robot_math:/home/lohith/install/my_py_pkg:/home/lohith/install/my_py1_pkg:/home/lohith/install/lidar_reader:/home/lohith/install/hello_pkg:/home/lohith/install/fouth_pkg:/home/lohith/install/first_pkg:/home/lohith/install/differential_drive_sim:/home/lohith/install/controller:/home/lohith/install/Third_pkg:/opt/ros/humble /usr/bin/cmake --build /home/lohith/yolobot/build/yolobot_recognition -- -j5 -l5
+[8.508s] Invoked command in '/home/lohith/yolobot/build/yolobot_recognition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lohith/ros2_ws/install/whisper_demos:/home/lohith/ros2_ws/install/move_robot_square:/home/lohith/ros2_ws/install/diff_drive_square:/home/lohith/ros2_ws/install/audio_listener:/home/lohith/install/turtlesim_goal:/home/lohith/install/turtlebot3_pid_control:/home/lohith/install/second_pkg:/home/lohith/install/robot_math:/home/lohith/install/my_py_pkg:/home/lohith/install/my_py1_pkg:/home/lohith/install/lidar_reader:/home/lohith/install/hello_pkg:/home/lohith/install/fouth_pkg:/home/lohith/install/first_pkg:/home/lohith/install/differential_drive_sim:/home/lohith/install/controller:/home/lohith/install/Third_pkg:/opt/ros/humble /usr/bin/cmake --build /home/lohith/yolobot/build/yolobot_recognition -- -j5 -l5
+[8.530s] Invoking command in '/home/lohith/yolobot/build/yolobot_recognition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lohith/ros2_ws/install/whisper_demos:/home/lohith/ros2_ws/install/move_robot_square:/home/lohith/ros2_ws/install/diff_drive_square:/home/lohith/ros2_ws/install/audio_listener:/home/lohith/install/turtlesim_goal:/home/lohith/install/turtlebot3_pid_control:/home/lohith/install/second_pkg:/home/lohith/install/robot_math:/home/lohith/install/my_py_pkg:/home/lohith/install/my_py1_pkg:/home/lohith/install/lidar_reader:/home/lohith/install/hello_pkg:/home/lohith/install/fouth_pkg:/home/lohith/install/first_pkg:/home/lohith/install/differential_drive_sim:/home/lohith/install/controller:/home/lohith/install/Third_pkg:/opt/ros/humble /usr/bin/cmake --install /home/lohith/yolobot/build/yolobot_recognition
+[8.612s] -- Install configuration: ""
+[8.614s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition//scripts
+[8.615s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition//scripts/yolov8_ros2_subscriber.py
+[8.615s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition//scripts/yolov8n.pt
+[8.618s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition//scripts/.gitignore
+[8.619s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition//scripts/.gitattributes
+[8.620s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition//scripts/.dockerignore
+[8.622s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition//scripts/yolov8_ros2_pt.py
+[8.623s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition//launch
+[8.623s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition//launch/launch_yolov8.launch.py
+[8.623s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/lib/yolobot_recognition/yolov8_ros2_pt.py
+[8.623s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/lib/yolobot_recognition/yolov8_ros2_subscriber.py
+[8.623s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/lib/yolobot_recognition/launch_yolov8.launch.py
+[8.623s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/ament_index/resource_index/package_run_dependencies/yolobot_recognition
+[8.623s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/ament_index/resource_index/parent_prefix_path/yolobot_recognition
+[8.624s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition/environment/ament_prefix_path.sh
+[8.624s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition/environment/ament_prefix_path.dsv
+[8.625s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition/environment/path.sh
+[8.625s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition/environment/path.dsv
+[8.626s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition/local_setup.bash
+[8.626s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition/local_setup.sh
+[8.626s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition/local_setup.zsh
+[8.626s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition/local_setup.dsv
+[8.626s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition/package.dsv
+[8.631s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/ament_index/resource_index/packages/yolobot_recognition
+[8.631s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition/cmake/yolobot_recognitionConfig.cmake
+[8.631s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition/cmake/yolobot_recognitionConfig-version.cmake
+[8.631s] -- Installing: /home/lohith/yolobot/install/yolobot_recognition/share/yolobot_recognition/package.xml
+[8.866s] Invoked command in '/home/lohith/yolobot/build/yolobot_recognition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lohith/ros2_ws/install/whisper_demos:/home/lohith/ros2_ws/install/move_robot_square:/home/lohith/ros2_ws/install/diff_drive_square:/home/lohith/ros2_ws/install/audio_listener:/home/lohith/install/turtlesim_goal:/home/lohith/install/turtlebot3_pid_control:/home/lohith/install/second_pkg:/home/lohith/install/robot_math:/home/lohith/install/my_py_pkg:/home/lohith/install/my_py1_pkg:/home/lohith/install/lidar_reader:/home/lohith/install/hello_pkg:/home/lohith/install/fouth_pkg:/home/lohith/install/first_pkg:/home/lohith/install/differential_drive_sim:/home/lohith/install/controller:/home/lohith/install/Third_pkg:/opt/ros/humble /usr/bin/cmake --install /home/lohith/yolobot/build/yolobot_recognition
